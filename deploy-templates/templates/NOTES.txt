@@ -1,0 +1,1 @@
+1. Application faststream-base has been successfully deployed!!
